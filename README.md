@@ -7,6 +7,13 @@ The `test_app` API provides a robust interface for [briefly describe the main fu
 You can access the live API documentation at the following URL:
 [API Documentation](https://test-money.fyber.site/swagger/)
 
+##Test Users with available balance
+username: ray
+password: 0000
+
+username: henry
+password: 0000
+
 ## GitHub Repository
 The source code for this project is available on GitHub:
 [GitHub Repository](https://github.com/lurdray/test_app.git)
